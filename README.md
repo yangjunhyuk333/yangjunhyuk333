@@ -2,10 +2,9 @@
 
 <!--
 **yangjunhyuk333/yangjunhyuk333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyangjunhyuk333)](https://hits.seeyoufarm.com)
 
 Here are some ideas to get you started:
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyangjunhyuk333)](https://hits.seeyoufarm.com)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
