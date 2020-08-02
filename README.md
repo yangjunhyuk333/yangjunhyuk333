@@ -4,7 +4,7 @@
 <br/>
 -------------------
 
-![junhyuk's github stats](https://github-readme-stats.vercel.app/api?username=yangjunhyuk333&show_icons=true)
+[![junhyuk's github stats](https://github-readme-stats.vercel.app/api?username=yangjunhyuk333&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangjunhyuk333&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
