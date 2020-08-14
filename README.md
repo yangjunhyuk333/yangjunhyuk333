@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=hhttps://www.facebook.com/profile.php?id=100010469590032)](https://www.facebook.com/profile.php?id=100039612978784)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mun200312@gmail.com)](mailto:jun.hyuk3640@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jun.hyuk3640@gmail.com)](mailto:jun.hyuk3640@gmail.com) 
 <br/>
 -------------------
 
